@@ -3,10 +3,6 @@
 <img width="1920" height="867" alt="image" src="https://github.com/user-attachments/assets/d2a35636-12dc-4af7-aef3-a7eaf426a697" />
 <img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/24b0ea0f-b45b-4d7e-a2b3-d0a7b9c33cf1" />
 
-
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 It demonstrates:
 
 - A **custom loader animation** with a percentage counter and dynamic text.
